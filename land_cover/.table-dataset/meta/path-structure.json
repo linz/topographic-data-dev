@@ -1,1 +1,1 @@
-{"scheme": "msgpack/hash", "branches": 256, "levels": 2, "encoding": "hex"}
+{"scheme": "msgpack/hash", "branches": 64, "levels": 4, "encoding": "base64"}
